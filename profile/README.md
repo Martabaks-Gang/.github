@@ -1,7 +1,7 @@
 ## Hi there 👋, Please buy us Martabaks :sparkling_heart:
 
-<img align="left" alt="Martabak" width="400" height="250" src="https://i0.wp.com/come2indonesia.com/wp-content/uploads/2021/04/MARTABAK-3.jpg?fit=820%2C471&ssl=1" style="padding-bottom:10px;"/>
-<img align="left" alt="kirby" width="490" height="250" src="https://media.giphy.com/media/5ev3alRsskWA0/giphy.gif" style="padding-bottom:10px;"/>
+<img alt="Martabak" width="400" height="250" src="https://i0.wp.com/come2indonesia.com/wp-content/uploads/2021/04/MARTABAK-3.jpg?fit=820%2C471&ssl=1"/>
+<img alt="kirby" width="490" height="250" src="https://media.giphy.com/media/5ev3alRsskWA0/giphy.gif" style="padding-bottom:10px;"/>
 
 ## Members
 
